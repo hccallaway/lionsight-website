@@ -1,2 +1,1 @@
-# morningsideanalytica-website
-The website for Morningside Analytica.
+# Morningside Analytica Website
